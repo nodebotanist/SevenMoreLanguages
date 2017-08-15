@@ -6,4 +6,4 @@ see general.md
 
 # Day 2
 
-see tables.md, ooo.md
+see tables.md, ooo.md, coroutines.md
