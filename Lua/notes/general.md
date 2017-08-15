@@ -82,3 +82,7 @@ end
 
 * global by default
 * use `local` for fuction scoping
+
+### Exercises
+
+* `repeat` is do-while loop (test at end)
